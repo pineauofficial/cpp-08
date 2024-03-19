@@ -6,12 +6,12 @@
 #    By: pineau <pineau@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/03/12 14:15:39 by pineau            #+#    #+#              #
-#    Updated: 2024/03/13 17:53:20 by pineau           ###   ########.fr        #
+#    Updated: 2024/03/19 13:31:09 by pineau           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 ### PROGRAM ###
-NAME		= Array
+NAME		= EasyFind
 
 ### SOURCES ###
 SRC_DIR		= sources/
